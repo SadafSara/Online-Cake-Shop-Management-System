@@ -54,9 +54,10 @@ class cart extends Model
 
     public function removeItem($id)
     {
-        $this->totalqty -= $this->items[$id]['item']['qty'];
-        $this->totalprice -=  $this->items[$id]['price'];
 
+        $this->totalqty -= $this->items[$id]['qty'];
+        $this->totalprice -=  $this->items[$id]['price'];
+       // $this->totalqty -= $this->items[$id]['item']['qty'];
         unset($this->items[$id]);
     }
 
