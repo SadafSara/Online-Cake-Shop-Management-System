@@ -104,6 +104,7 @@ class ProductController extends Controller
                   $order->method = $request->method;
                   $order->bkash_name = $request->bkash_name;
                   $order->bkash_num = $request->bkash_num;
+                  $order->TrxID = $request->TrxID;
                   $order->save();
 
                  
