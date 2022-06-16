@@ -1,2 +1,2 @@
 # Online Cake Shop Management System
- Users can see the menu and order their desired cakes
+ Users can browse through the menu and place order for their desired cakes
