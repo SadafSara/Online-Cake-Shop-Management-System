@@ -1,2 +1,12 @@
 # Online Cake Shop Management System
- Users can browse through the menu and place order for their desired cakes
+ This project is developed using the Laravel PHP Framework which follows the MVC architectural pattern.
+ Using this web application, users would be able to:
+ * browse through the menu
+ * place order
+ * view their cart
+ * delete items from the cart
+ * make payment for their desired cakes
+
+# The demo video of how this application works can be found in this gooogle drive:
+https://drive.google.com/drive/folders/1qwbFoH_B1ndNOVv3LbgQWZQ2wgBE2z_m?usp=sharing
+
