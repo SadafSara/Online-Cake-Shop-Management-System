@@ -2,6 +2,8 @@
  This project is developed using the Laravel PHP Framework which follows the MVC architectural pattern.
  Using this web application, users would be able to:
  * browse through the menu
+ * register for a user account 
+ * login
  * place order
  * view their cart
  * delete items from the cart
