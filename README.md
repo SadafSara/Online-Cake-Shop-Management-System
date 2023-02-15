@@ -7,6 +7,6 @@
  * delete items from the cart
  * make payment for their desired cakes
 
-# The demo video of how this application works can be found in this gooogle drive:
+# Demo video of how this application works:
 https://drive.google.com/drive/folders/1qwbFoH_B1ndNOVv3LbgQWZQ2wgBE2z_m?usp=sharing
 
